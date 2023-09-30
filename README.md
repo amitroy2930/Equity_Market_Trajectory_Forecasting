@@ -18,7 +18,7 @@ We calculated the 100-day and 200-day moving averages for the closing prices. Th
 
 ## Model Upgrade to GRU
 
-In a significant model upgrade, we transitioned from using LSTM to GRU (Gated Recurrent Unit). GRU is a type of recurrent neural network architecture that is known for its efficiency and ability to capture long-range dependencies in data, making it suitable for sequential data analysis. This upgrade reduced the training time by approximately 100 seconds, from 506 seconds to 406 seconds, primarily due to a reduction in the number of learnable parameters.
+In a significant model upgrade, we transitioned from using LSTM to GRU (Gated Recurrent Unit). GRU is a type of recurrent neural network architecture that is known for its efficiency and ability to capture long-range dependencies in data, making it suitable for sequential data analysis. This upgrade reduced the training time by approximately 60 seconds, from 506 seconds to 446 seconds, primarily due to a reduction in the number of learnable parameters.
 
 ### Model Performance Improvement
 
