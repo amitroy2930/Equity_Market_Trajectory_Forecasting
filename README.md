@@ -27,6 +27,8 @@ The introduction of the GRU model resulted in improved performance metrics:
 - **Mean Squared Error (MSE):** Reduced by 0.0096
 - **R2 Score:** Improved by 0.2897
 
+![Image Alt Text](Images/stock_price_prediction.png)
+
 Additionally, the GRU model's weight size is 1652 KB, while the LSTM model's weight size is 2167 KB, further enhancing efficiency and resource utilization.
 
 ### Visualization and Evaluation
