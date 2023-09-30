@@ -43,10 +43,9 @@ To replicate or extend this work, follow these steps:
 
 1. Collect stock data from Yahoo Finance using stock tickers.
 2. Perform MinMax scaling on the closing price column.
-3. Calculate the 100-day and 200-day moving averages.
-4. Split the data into training and testing sets (70%-30%).
-5. Train the GRU model using the training dataset.
-6. Predict the trend using the trained model and assess its performance.
+3. Split the data into training and testing sets (70%-30%).
+4. Train the GRU model using the training dataset.
+5. Predict the trend using the trained model and assess its performance.
 
 Feel free to modify the code and experiment with different hyperparameters to achieve even better results.
 
